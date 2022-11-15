@@ -13,7 +13,6 @@ gunicorn
 uvloop
 httptools
 pyngrok
-tensorflow
 streamlit
 
 
