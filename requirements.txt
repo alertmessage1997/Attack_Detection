@@ -1,18 +1,10 @@
 numpy
 pandas
-seaborn
-matplotlib
 scikit-learn
-keras
+tensorflow>==2.10.0
 pypi-json
 fastapi
-uvicorn
-pydantic
 requests
-gunicorn
-uvloop
-httptools
-pyngrok
 streamlit
 
 
